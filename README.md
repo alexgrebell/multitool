@@ -68,3 +68,12 @@ Enter q to return to the main menu
 Console-clearing is OS-dependent: uses cls (Windows) and clear (Linux/macOS)
 
 Keyboard input handling (_kbhit, _getch) is emulated for Linux systems
+
+---
+
+## ℹ️ About the project
+This program was written for personal practice, to remember the basics of the C language and experiment with creating a simple multi-tool for the terminal.
+
+Some parts of the code were implemented using hints from ChatGPT or based on examples of working with system functions (such as kbhit or getch) for cross-platform support for Windows and Linux.
+
+The project does not claim to be perfect - it is rather a learning tool and a reminder of C syntax, logic and structures.
