@@ -17,13 +17,13 @@ Includes essential utilities like a timer, calculator, time calculator, percenta
 
 ## 🧩 How to Build
 
-### 🔷 On Linux / macOS:
+### 🔷 On Linux / macOS
 
 ```bash
 gcc media.c -o multitool
 ./multitool
 
-#### 🟦 On Windows (MinGW or similar):
+#### 🟦 On Windows (MinGW or similar)
 
 bash
 Copy
@@ -33,7 +33,7 @@ multitool.exe
 
 ##### 🧭 Navigation:
 
-When you run the program, you'll see a menu:
+When you run the program, you'll see a menu
 
 markdown
 Copy
@@ -45,7 +45,7 @@ Edit
 5. Randomizer  
 Press the corresponding number to use a tool. You can exit any tool using q (when prompted) or return to the main menu.
 
-###### 🔁 Controls:
+###### 🔁 Controls
 
 Timer:
 
@@ -57,7 +57,7 @@ Other tools:
 
 Enter q to return to the main menu
 
-#######💡 Notes:
+#######💡 Notes
 
 Console-clearing is OS-dependent: uses cls (Windows) and clear (Linux/macOS)
 
