@@ -22,7 +22,7 @@ Includes essential utilities like a timer, calculator, time calculator, percenta
 ```bash
 gcc media.c -o multitool
 ./multitool
-
+```
 ### 🟦 On Windows (MinGW or similar)
 
 bash
@@ -30,6 +30,8 @@ Copy
 Edit
 gcc media.c -o multitool.exe
 multitool.exe
+
+---
 
 ## 🧭 Navigation:
 
@@ -45,6 +47,8 @@ Edit
 5. Randomizer  
 Press the corresponding number to use a tool. You can exit any tool using q (when prompted) or return to the main menu.
 
+---
+
 ## 🔁 Controls
 
 Timer:
@@ -57,7 +61,9 @@ Other tools:
 
 Enter q to return to the main menu
 
-##💡 Notes
+---
+
+## 💡 Notes
 
 Console-clearing is OS-dependent: uses cls (Windows) and clear (Linux/macOS)
 
