@@ -25,9 +25,6 @@ gcc media.c -o multitool
 ```
 ### 🟦 On Windows (MinGW or similar)
 
-bash
-Copy
-Edit
 gcc media.c -o multitool.exe
 multitool.exe
 
@@ -37,9 +34,6 @@ multitool.exe
 
 When you run the program, you'll see a menu
 
-markdown
-Copy
-Edit
 1. Timer  
 2. Calculator  
 3. Time calculation  
